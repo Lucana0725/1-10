@@ -33,6 +33,19 @@ display: flex;
   background-position: bottom;
   height: 150px;
 }
+.box-image2 {
+  background-image: url("img/flow02.png");
+  background-size: cover;
+  background-position: bottom;
+  height: 150px;
+}
+
+.box-image3 {
+  background-image: url("img/flow03.png");
+  background-size: cover;
+  background-position: bottom;
+  height: 150px;
+}
 
 footer {
   width: 100%;

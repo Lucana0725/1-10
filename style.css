@@ -87,4 +87,16 @@ footer {
   .step-box:nth-last-child {
     margin-bottom: 0;
   }
+  
+  .box-image1 {
+    height: 150px;
+  }
+  
+  .box-image2 {
+    height: 150px;
+  }
+  
+  .box-image3 {
+    height: 150px;
+  }
 }

@@ -75,4 +75,9 @@ footer {
     margin-bottom: 50px;
     display: block;
   }
+  
+  .step-box {
+    width: 90%;
+    margin: 20px auto;
+  }
 }
